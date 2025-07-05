@@ -1,6 +1,6 @@
 # ADD IT
 
-Welcome to **ADD IT**, a command prompt-based game developed in C++. This game is currently in the development stage, and i excited to share it with you!
+Welcome to **ADD IT**, a command prompt-based game developed in C++. I excited to share it with you! , the basic feature has been completly developend and other features are not developed.
 
 ## About the Game
 
