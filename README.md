@@ -11,3 +11,6 @@ Welcome to **ADD IT**, a command prompt-based game developed in C++. I excited t
 - **User-Friendly Interface**: Easy to navigate command prompt interface.
 - **Fun for All Ages**: Suitable for both kids and adults looking to improve their math skills.
 
+## Sample Screenshot
+![game menu](SampleOutputs/sample%20play%20menu.jpg)
+![game play](SampleOutputs/sample%20game%20play.jpg)
